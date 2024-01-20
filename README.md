@@ -40,9 +40,7 @@ The notebook requires PySpark, Matplotlib, Seaborn, and other standard Python li
 
 ## Contributors
 
-- Arya Murali (Student ID: 2261667)
-- Sreeraj Jayarajan (Student ID: 2278601)
-- Pooja Prakash (Student ID: 2304970)
-- Syam Omanakuttan (Student ID: 2292100)
-
+- Sreeraj Jayarajan
+- Arya Murali
+  
 Feel free to explore and enhance the analysis in this notebook. Your contributions are welcome!
